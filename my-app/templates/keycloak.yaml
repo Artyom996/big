@@ -1,3 +1,0 @@
-{{- include "keycloak.fullname" . }}:
-  keycloak:
-    enabled: true
