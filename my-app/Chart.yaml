@@ -1,4 +1,4 @@
-apiVersion: v2
+apiVersion: v1
 name: my-app
 description: A Helm chart for a web application with Keycloak authentication
 version: 0.1.0
