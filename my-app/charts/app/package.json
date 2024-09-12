@@ -1,0 +1,12 @@
+{
+    "name": "keycloak-app",
+    "version": "1.0.0",
+    "description": "Test app with Keycloak authentication",
+    "main": "app.js",
+    "dependencies": {
+      "express": "^4.17.1",
+      "keycloak-connect": "^16.0.0",
+      "pg": "^8.7.1",
+      "sequelize": "^6.6.5"
+    }
+  }
